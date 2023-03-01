@@ -29,7 +29,8 @@ body{
 }
 .texto {
     background-color: #191B34;
-    width: 100%;padding: 10px;
+    width: 100%;
+    padding: 10px;
     border-radius: 4px;
     margin-bottom: 16px; 
     border: 1px solid #4bb96c;color: white; 
@@ -45,7 +46,8 @@ body{
     font-weight: 200;
 }
 #enviar{
-    width: 40%;background-color: #4bb96c;
+    width: 40%;
+    background-color: #4bb96c;
     border: none;
     padding: 5px;
     color: #191B34;
@@ -56,7 +58,8 @@ body{
     cursor: pointer;
 } 
 #borrar{
-    width: 40%;background-color: #4bb96c;
+    width: 40%;
+    background-color: #4bb96c;
     border: none;
     padding: 5px;
     color: #191B34;
@@ -68,8 +71,6 @@ body{
 } 
 .select select{
     appearance: none;
-    -webkit-appearance: none;
-    -moz-appearance: none;
 }
 .select select{
     display: inline-block;
